@@ -1,0 +1,80 @@
+.home {
+  background-image: url('https://media.giphy.com/media/bkQU133D8VFu/giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+.jumbo {
+  font-family: 'Creepster';
+  text-align: center;
+  margin: 30px;
+  color: #ffab5e;
+  font-size: 350%;
+}
+
+.nav {
+  font-family: 'Creepster';
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  font-size: 200%;
+}
+
+.upcoming {
+  font-family: 'Creepster';
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  font-size: 150%;
+  color: #ffab5e;
+  text-align: center;
+}
+
+.shows {
+  background-image: url('https://media.giphy.com/media/fAluoHQbBXYek/giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+.contact {
+  background-image: url('https://media.giphy.com/media/WcVMWJ6Rv0Rws/giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+.about {
+  background-image: url('https://scontent-sjc2-1.xx.fbcdn.net/v/t31.0-8/14884562_1358097660897957_438745634446513186_o.jpg?oh=51ba03b2dfc9ba7a4b6ea572934cb46c&oe=5A3189E8');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+  font-family:'Creepster';
+  padding: 10px;
+  margin: 10px;
+  font-size: 120%;
+}
+
+a {
+  text-decoration: none;
+  color: #ffab5e;
+}
+a:hover {
+  color: #ffadad;
+}
