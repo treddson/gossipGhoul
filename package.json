@@ -1,0 +1,25 @@
+{
+  "name": "gossip",
+  "version": "1.0.0",
+  "description": "webpage for gossip ghoul band",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/treddson/gossipghoul.git"
+  },
+  "keywords": [
+    "gossip",
+    "ghoul",
+    "band",
+    "halloween"
+  ],
+  "author": "Taylor Short",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/treddson/gossipghoul#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
